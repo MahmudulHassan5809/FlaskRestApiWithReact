@@ -31,7 +31,8 @@ npm run client-install
 npm start
 
 
-# Server runs on http://localhost:5000 and client on http://localhost:3000
+# Server runs on http://localhost:5000 and 
+# client on http://localhost:3000
 
 
 ## Endpoints
@@ -44,7 +45,7 @@ npm start
 
 App Info
 Author
-Mahmudul Hassan
+# Mahmudul Hassan
 
 Version
 

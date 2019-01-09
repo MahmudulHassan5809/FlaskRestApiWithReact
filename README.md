@@ -22,7 +22,7 @@ $ python
 python app.py
 ```
 
-Quick Start for client
+# Quick Start for client
 
 # Install dependencies
 npm run client-install
